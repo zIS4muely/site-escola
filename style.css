@@ -1,3 +1,8 @@
-body { 
+.cabeçalho { 
   background-color:#ffffff  ;  
 }
+
+.cabeçalho-imagem{
+ width: 50%;
+}
+
