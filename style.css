@@ -22,6 +22,12 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 }
 .escola{
-  
-  background-color:#6d6c6c  ; 
+  display: flex;
+  background-image:linear-gradient(#6d6c6c,#ffffff)
+}
+
+.escola-imagem{
+
+width: 30%;
+
 }
