@@ -1,11 +1,12 @@
 *{
   margin: 0;
   padding: 0;
+  font-family: 'Poppins', sans-serif;
 }
 
 .cabeçalho {
 
-  background-color:#333333  ;  
+  background-color:#00d9ff  ;  
   display: flex;
   justify-content: space-around;
   padding: 24px 0;
@@ -28,13 +29,24 @@
 
 .escola{
 
-  background-image:linear-gradient(#333333,#cecece);
+  background-image:linear-gradient(#00d9ff ,#ff00ea);
   display: flex;
 
 }
 
-.escola-imagem{
+.escola-imagem {
 
 width: 30%;
 
 }
+
+.estudante-imagem {
+width: 30%;
+
+}
+.estudante{
+
+  background-color:#ff00ea ;  
+
+}
+
