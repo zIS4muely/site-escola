@@ -53,3 +53,8 @@
 .estudante-imagem-div{
   text-align: center;
 }
+
+.estudante-imagem{
+  width: 20%;
+  text-align: center;
+}
