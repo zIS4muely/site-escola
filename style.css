@@ -38,6 +38,10 @@
  width: 30%;;
 }
 
+.estudante-titulo{
+  text-align: center;
+}
+
 .estudante{
   background-color:#e41919 ;  
 }
@@ -62,4 +66,13 @@
 .estudante-todos{
 display: grid;
 grid-template-columns: 20% 20% 20% 20% 20% 20%;
+}
+
+.rodape{
+text-align: center;  
+background-color:#e41919 ; 
+}
+
+.rodape-imagem{
+  width: 5%;
 }
